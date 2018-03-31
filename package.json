@@ -1,8 +1,8 @@
 {
-  "name": "vost-euskadi-intranet",
+  "name": "node-handlebars-scss-webpack",
   "version": "0.0.1",
   "private": true,
-  "description": "VOST Euskadi's intranet",
+  "description": "Node with Handlebars and SCSS",
   "main": "app.js",
   "browserslist": [
     "> 1%",
@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/VOSTEuskadi/Intranet.git"
+    "url": "git+https://github.com/fjpalacios/node-handlebars-scss-webpack.git"
   },
   "keywords": [
     "vost",
@@ -28,10 +28,11 @@
   ],
   "author": "Javi Palacios <javi@fjp.es>",
   "bugs": {
-    "url": "https://github.com/VOSTEuskadi/Intranet/issues"
+    "url": "https://github.com/fjpalacios/node-handlebars-scss-webpack/issues"
   },
-  "homepage": "https://github.com/VOSTEuskadi/Intranet#readme",
+  "homepage": "https://github.com/fjpalacios/node-handlebars-scss-webpack#readme",
   "dependencies": {
+    "body-parser": "^1.18.2",
     "bootstrap": "^4.0.0",
     "dotenv": "^5.0.1",
     "express": "^4.16.3",
