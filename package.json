@@ -20,9 +20,9 @@
     "url": "git+https://github.com/fjpalacios/node-handlebars-scss-webpack.git"
   },
   "keywords": [
-    "vost",
-    "euskadi",
-    "intranet",
+    "handlebars",
+    "webpack",
+    "scss",
     "node",
     "express"
   ],
@@ -34,7 +34,7 @@
   "dependencies": {
     "body-parser": "^1.18.2",
     "bootstrap": "^4.0.0",
-    "dotenv": "^5.0.1",
+    "dotenv": "^6.0.0",
     "express": "^4.16.3",
     "express-handlebars": "^3.0.0",
     "jquery": "^3.3.1",
@@ -48,12 +48,12 @@
     "css-loader": "^0.28.11",
     "extract-loader": "^2.0.1",
     "file-loader": "^1.1.11",
-    "node-sass": "^4.8.3",
-    "nodemon": "^1.17.2",
+    "node-sass": "^4.9.0",
+    "nodemon": "^1.17.5",
     "npm-run-all": "^4.1.2",
     "postcss-loader": "^2.1.3",
-    "sass-loader": "^6.0.7",
-    "webpack": "^4.2.0",
-    "webpack-cli": "^2.0.13"
+    "sass-loader": "^7.0.3",
+    "webpack": "^4.12.0",
+    "webpack-cli": "^3.0.6"
   }
 }
